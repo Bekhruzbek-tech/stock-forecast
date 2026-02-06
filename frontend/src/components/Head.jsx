@@ -20,7 +20,7 @@ const Header = () => {
         
         {/* Logo / Brand */}
         <Link className="navbar-brand fw-bold fs-4 text-info" to="/">
-          📈 Stock Prediction Portal
+          Stock Prediction Portal Application 
         </Link>
 
         {/* Right side */}
