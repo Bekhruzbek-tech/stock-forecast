@@ -2,6 +2,11 @@ Stock Prediction Portal
 
 Full-Stack Application with Django REST, React, and Machine Learning
 
+# How to run project
+
+Click this link to run the project in your browser:  
+[Run Project in Gitpod](https://gitpod.io/#https://github.com/Bekhruzbek-tech/stock-forecast)
+
 # Project Overview
 
 This project is a full-stack stock prediction portal that combines backend development, frontend development, and machine learning into a single real-world application.
