@@ -1,7 +1,7 @@
 import React from 'react'
-import Head from './Head'
+import Header from './Head'
 import Footer from './Footer'
-import Button from './Button'
+import Button from './Buttons'
 
 const Main = () => {
   return (

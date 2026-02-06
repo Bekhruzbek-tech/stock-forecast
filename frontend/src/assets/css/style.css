@@ -1,14 +1,16 @@
 body{
-    background-color: #5890c9;
+    background-color: #3a78b7;
 }
 .bg-light-dark{
-    background-color: #1c334b;
+    background-color: #2B3035;
 }
-.container{
-    flex: 1;
-}
-#root {
+
+#root{
     display: flex;
     flex-direction: column;
     min-height: 100vh;
+}
+
+.container{
+    flex: 1;
 }
